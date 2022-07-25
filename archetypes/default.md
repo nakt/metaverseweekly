@@ -4,3 +4,8 @@ date: {{ .Date }}
 draft: true
 ---
 
+## 業界動向
+
+## イベント
+
+## NFT
